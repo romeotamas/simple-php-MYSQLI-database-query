@@ -4,10 +4,10 @@
 	*/
     class DbConnect_MYSQLI {
 
-		private $server = 'localhost';
-		private $dbname = 'database';
-		private $user = 'user';
-		private $pass = 'password';
+	private $server = 'localhost';
+	private $dbname = 'database';
+	private $user = 'user';
+	private $pass = 'password';
 
         private $mysqli;
         private $sql;
